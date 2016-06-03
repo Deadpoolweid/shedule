@@ -1,10 +1,14 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    background-image: url(media/images/main.png);
+    background-size: auto;
 }
 
 header {
     padding: 20px 0;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
 }
 
 header .row,
@@ -62,13 +66,13 @@ section .row img {
 .btn.btn-primary {
     border-radius: 2px;
     border: 0px;
-    color: #fbd1d5;
+    color: #ffffff;
     text-shadow: none;
     background-color: #0074d9;
 }
 
 .btn.btn-primary:hover {
-    color: #ffffff;
+    color: #8a9dfb;
     background-color: #0275d8;
 }
 
@@ -85,6 +89,7 @@ section .row img {
 footer {
     font-size: 12px;
     padding: 20px 0;
+    border-top: 2px solid black;
 }
 
 footer .col-sm-8 {
@@ -118,4 +123,33 @@ footer li img {
 
 .selection {
     display: block;
+}
+
+.input_txt {
+    margin-bottom: 10px;
+    width: 447px;
+    border: 2px;
+    border-color: #3f046f;
+    background: #640cab;
+    padding: 8px 15px 8px 15px;
+    color:#ffffff;
+
+}
+
+.text_area {
+    margin-bottom: 10px;
+    width: 447px;
+    height:118px;
+    font-size: 14px;
+    border: none;
+    background: #0b61a4;
+    padding: 8px 15px 8px 15px;
+    color:#ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    z-index: 150;
+    opacity: 80;
+}
+
+#icons:hover {
+    background-color: #5bc0de;
 }
