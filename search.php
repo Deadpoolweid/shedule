@@ -11,15 +11,14 @@
 <? require_once "coms/header.php" ?>
 <section class="container">
     <div class="row">
-        <div class="col-md-8">
-            <div class="col-md-2">
-                <a class="btn btn-secondary" href="#">Студент</a>
-            </div>
-            <div class="col-md-1"></div>
+        <div class="col-md-12">
+            <div class="col-md-3"></div>
             <div class="col-md-2">
                 <a class="btn btn-secondary" href="#">Преподаватель</a>
             </div>
-            <div class="col-md-1"></div>
+            <div class="col-md-2">
+                <a class="btn btn-secondary" href="#">Студент</a>
+            </div>
             <div class="col-md-2">
                 <a class="btn btn-secondary" href="#">Администратор</a>
             </div>
@@ -27,6 +26,7 @@
     </div>
 
     <div class="row">
+        <div class="col-md-3"></div>
         <div class="search col-md-6">
             <div class="row">
                 <label class="col-md-4">Форма обучения</label>
@@ -58,6 +58,7 @@
 
 
     <div class="row">
+        <div class="col-md-5"></div>
         <div class="btn col-md-2 text-center btn-primary">Искать</div>
     </div>
 

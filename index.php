@@ -8,13 +8,13 @@
 
 <body>
 <?php require_once "coms/header.php" ?>
-<section class="jumbotron col-md-12">
+<section class="jumbotron">
     <div class="container">
         <div class="row text-center">
             
             <h2>Расписание занятий</h2>
             <h3>Доступное всем и каждому</h3>
-            <a class="btn btn-primary" href="#">Перейти к поиску</a>
+            <a class="btn btn-primary" href="search.php">Перейти к поиску</a>
         </div>
     </div>
 </section>

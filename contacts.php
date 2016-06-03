@@ -11,6 +11,7 @@
 <? require_once "coms/header.php" ?>
 <section class="container">
     <div class="row">
+        <div class="col-md-3"><img src="media/images/contact.jpg" /></div>
         <div class="col-md-6">
             <h1>Cвяжись со мной</h1>
             <span>
