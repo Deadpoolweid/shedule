@@ -18,9 +18,6 @@
         </div>
     </div>
 </section>
-<section class="container">
-
-</section>
 <? require_once "coms/footer.php" ?>
 </body>
 

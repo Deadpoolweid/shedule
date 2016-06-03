@@ -42,7 +42,6 @@
         </div>
     </div>
 </section>
-
 <? require_once "coms/footer.php" ?>
 </body>
 </html>
