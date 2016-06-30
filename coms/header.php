@@ -7,6 +7,7 @@ echo "
             <p><a class=\"btn btn-primary\" href=\"index.php\">Главная</a></p>
             <p><a class=\"btn btn-primary\" href=\"search.php\">Поиск</a></p>
             <p><a class=\"btn btn-primary\" href=\"contacts.php\">Контакты</a></p>
+            <p><a class='btn btn-primary' href='login.php'>Вход</a> </p>
         </nav>
     </div>
 
